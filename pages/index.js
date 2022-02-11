@@ -11,7 +11,7 @@ export default function Home() {
     <h1> Nicholas Gomis </h1>
     <p> A full Stack Software Engineer</p>
     <p> Passionate in building new apps</p>
-    <Footer />
+
     </div>
   ) 
 }

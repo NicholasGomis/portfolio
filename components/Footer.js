@@ -4,8 +4,10 @@ export function Footer(props) {
     
 
     return (
-        <div>
+        <div className="copyright">
+        
         Copyright 2021 Nicholas Gomis 
+        
         </div>
     )
 }

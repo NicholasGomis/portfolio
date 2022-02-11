@@ -7,7 +7,7 @@ export function Layout({children}) {
 
     return (
 
-<div className="content">
+<div className="logo">
 <Navbar />
 {children}
 <Footer />
