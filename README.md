@@ -1,9 +1,19 @@
 # My personal portfolio
 
+This is the first version (V1) of my portfolio.The purpose of the portfolio is to help me showcase my skills, experience and projects for future employment.
 
-The structure of the the App:
 
-Header:
+### Technologies:
+Next.js (Creating components with routes)
+Netlify (Deployment)
+Node.Js
+
+
+
+
+# Structure and elements :
+
+### Header:
 Nav bar 
 Logo.
 
@@ -11,9 +21,9 @@ Logo.
 Photo
 Name
 About me  
-profession, 
+profession
 quick intro 
-languages logos.
+languages logos
 
 ### Page content 2:
 
@@ -21,8 +31,9 @@ Recent Projects / work.
 
 
 ### Page content 3:
-Resume.
-Reach  me.
+Reach  me 
+Resume (bonus)
 
 ### Footer:
 Button page: my socials (logo links).
+Copyright 
