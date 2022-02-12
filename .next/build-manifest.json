@@ -30,6 +30,16 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/about": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/about.js"
+    ],
+    "/contactme/contact": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/contactme/contact.js"
+    ],
     "/projects": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
