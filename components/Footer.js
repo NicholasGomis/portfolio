@@ -1,13 +1,15 @@
 import React from 'react'
 
-export function Footer(props) {
+
+export function Footer() {
     
 
     return (
-        <div className="copyright">
-        
+     
+        <footer>
         Copyright 2021 Nicholas Gomis 
-        
-        </div>
+        </footer>
     )
 }
+
+
