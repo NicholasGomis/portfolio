@@ -19,7 +19,7 @@ export default function Home() {
     <Image src='/react.png'width={40} height={38}></Image>
     <Image src='/ts.png'width={40} height={38}></Image>
     {/* <p className={styles.text}> Passionate in building apps and exploring new technologies </p> */}
-    <p className={styles.text}> <a className={styles.text}href="https://www.schoolofcode.co.uk"> School Of Code </a> Student that have recently graduated from the bootcamp 👨🏻‍💻, I am passionate in building apps and exploring new technologies. Always keen to learn new innovative things and embark in new adventures!</p>
+    <p className={styles.text}> <a className={styles.text}href="https://www.schoolofcode.co.uk"> School Of Code </a> Student that have recently graduated from the bootcamp 👨🏻‍💻, I' m passionate in building apps and exploring new technologies. Always keen to learn new innovative things and embark in new adventures!</p>
 
     <Link href={"/projects"}>
     <a className={styles.btn}> Recent works </a>
