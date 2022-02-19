@@ -21,7 +21,7 @@
   border-radius: 4px;
   color: white;
   text-align: center;
-  
+  display: inline-block
 }
 
 .subtitle {
@@ -31,6 +31,15 @@
  line-height:60px;
  
  
+
+}
+
+.placeholder {
+
+display: inline-block;
+margin-left: 8px;
+margin-right: 8px;
+
 
 }
 

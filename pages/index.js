@@ -24,6 +24,10 @@ export default function Home() {
     <Link href={"/projects"}>
     <a className={styles.btn}> Recent works </a>
     </Link>
+    <p className={styles.placeholder} > or </p>
+     <Link href={"/contactme/contact"}>
+    <a className={styles.btn}> Get in touch </a>
+    </Link>
 
    
 
