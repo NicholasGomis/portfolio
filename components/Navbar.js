@@ -9,6 +9,7 @@ export function Navbar(props) {
     <nav>
     <div className="logo">
     <Image src='/logo.png'width={128} height={127}></Image>
+ 
     
     </div>
     <Link href="/"><a> Home </a></Link>

@@ -5,10 +5,13 @@ import { Footer } from '../components/footer'
 import { Navbar } from '../components/Navbar'
 import styles from '../styles/Home.module.css'
 
+
 export default function Home() {
   return (
     <div className={styles.title}> 
    
+    <Image src='/avatar.png'width={188} height={187}></Image>
+
     <h1 className={styles.title}> Nicholas Gomis </h1>
     <p className={styles.title}> A full Stack Software Engineer</p>
     <p className={styles.text}> Passionate in building new apps</p>
