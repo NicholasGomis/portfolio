@@ -9,7 +9,7 @@ export function Footer() {
      
         <footer>
        
-        Copyright 2021 Nicholas Gomis 
+        © Copyright 2022 Nicholas Gomis. All Rights Reserved
 
 
 

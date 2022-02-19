@@ -20,11 +20,15 @@ export default function Contact(props) {
         My twitter </a>
 
          <br></br>
-         
+
         <a href="https://github.com/NicholasGomis">
         <Image src='/github.png'width={40} height={38}></Image>
         My Github</a>
+    <br></br>
 
+     <a href="">
+        <Image src='/email.png'width={40} height={38}></Image>
+        My email</a>
         </div>
 
     )
