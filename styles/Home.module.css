@@ -2,9 +2,12 @@
   color: #333;
   padding-bottom: 20px;
   text-align: center;
+  
+
 }
 .text {
-  color: #777;
+  color: black
+  ;
 }
 .btn {
   display: block;
@@ -15,4 +18,15 @@
   border-radius: 4px;
   color: white;
   text-align: center;
+  
+}
+
+.subtitle {
+
+ color: #027fff;
+ font-size: 46px;
+ line-height:60px;
+ 
+ 
+
 }
