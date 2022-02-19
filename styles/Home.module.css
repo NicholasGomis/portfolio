@@ -3,10 +3,13 @@
   padding-bottom: 20px;
   text-align: center;
   
+  
 
 }
 .text {
-  color: black
+  color: black;
+  font-size: 20px;
+
   ;
 }
 .btn {
@@ -30,3 +33,4 @@
  
 
 }
+
