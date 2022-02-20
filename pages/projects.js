@@ -20,7 +20,12 @@ export default function Projects(props) {
         
 
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean imperdiet leo vitae vulputate consectetur. Donec eget semper nunc. Vestibulum non nunc in sem hendrerit rutrum nec sed risus. Aenean et eleifend ante Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean imperdiet leo vitae vulputate consectetur. Donec eget semper nunc. Vestibulum non nunc in sem hendrerit rutrum nec sed risus. Aenean et eleifend ante</p>
-        <img src={"https://s3.amazonaws.com/creativetim_bucket/products/500/original/soft-ui-dashboard-material-ui.jpg?1632195046"} alt="Logo" />;
+        <img className={styles.pics} src={"https://s3.amazonaws.com/creativetim_bucket/products/500/original/soft-ui-dashboard-material-ui.jpg?1632195046"} alt="Logo" />;
+
+          <a className={styles.btntwo}> Code </a>
+          <a className={styles.btntwo}> Demo </a>
+         <a className={styles.btntwo}> Learn more </a>
+
 
          <h1> CodeBuddy -  Q&A Forum / Social for developers </h1>
         <a className={styles.tags}> #React.js </a>
@@ -30,7 +35,12 @@ export default function Projects(props) {
         <p className={styles.tags}> #Jest </p>
     
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean imperdiet leo vitae vulputate consectetur. Donec eget semper nunc. Vestibulum non nunc in sem hendrerit rutrum nec sed risus. Aenean et eleifend ante Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean imperdiet leo vitae vulputate consectetur. Donec eget semper nunc. Vestibulum non nunc in sem hendrerit rutrum nec sed risus. Aenean et eleifend ante</p>
-         <img src={"https://s3.amazonaws.com/creativetim_bucket/products/500/original/soft-ui-dashboard-material-ui.jpg?1632195046"} alt="Logo" />;
+         <img className={styles.pics} src={"https://s3.amazonaws.com/creativetim_bucket/products/500/original/soft-ui-dashboard-material-ui.jpg?1632195046"} alt="Logo" />;
+
+           <a className={styles.btntwo}> Code </a>
+           <a className={styles.btntwo}> Demo </a>
+           <a className={styles.btntwo}> Learn more </a>
+
 
         <h1> Who has seen it - Track missing people </h1>
 
@@ -43,9 +53,15 @@ export default function Projects(props) {
     <p className={styles.tags}> #Jest </p>
     
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean imperdiet leo vitae vulputate consectetur. Donec eget semper nunc. Vestibulum non nunc in sem hendrerit rutrum nec sed risus. Aenean et eleifend ante Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean imperdiet leo vitae vulputate consectetur. Donec eget semper nunc. Vestibulum non nunc in sem hendrerit rutrum nec sed risus. Aenean et eleifend ante</p>
- 
- <img src={"https://s3.amazonaws.com/creativetim_bucket/products/500/original/soft-ui-dashboard-material-ui.jpg?1632195046"} alt="Logo" />;
 
+ 
+ <img className={styles.pics} src={"https://s3.amazonaws.com/creativetim_bucket/products/500/original/soft-ui-dashboard-material-ui.jpg?1632195046"} alt="Logo" />;
+    
+  <a className={styles.btntwo}> Code </a>
+  <a className={styles.btntwo}> Demo </a>
+  <a className={styles.btntwo}> Learn more </a>
+
+  
         </div>
     )
 }
