@@ -8,7 +8,7 @@ export default function Projects(props) {
         
         <div> 
         
-    <h1> 4 week national project </h1>
+    <h1> Health and wellbeing app </h1>
 
     <a className={styles.tags}> #React.js </a>
      <a className={styles.tags}> #CSS </a>
