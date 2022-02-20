@@ -1,13 +1,14 @@
 import React from 'react'
 import { Navbar } from '../../components/Navbar'
 import Image from 'next/image'
+import styles from '../../styles/Contact.module.css'
 
 export default function Contact(props) {
     
 
     return (
         
-        <div>
+        <div className={styles.list}>
         <h1>Lets connect</h1>
      
     <a href="">
