@@ -11,11 +11,11 @@ export default function Contact(props) {
         <div className={styles.list}>
         <h1>Lets connect</h1>
      
-    <a href="">
+    <a href="mailto:nicholasgomis@icloud.com">
         <Image src='/email.png'width={40} height={38}></Image>
         My email</a>
     <br></br>
-         <a href="https://github.com/NicholasGomis">
+         <a href="https://www.linkedin.com/in/nicholasgomis/">
         <Image src='/linkedin.png'width={40} height={38}></Image>
        My Linkedin </a>
        <br></br>
