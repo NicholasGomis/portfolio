@@ -5,6 +5,6 @@ export default function ProjectTwo(props) {
 
     return (
         
-        <h1> Project one page route working</h1>
+        <h1> CodeBuddy - Q&A Forum / Social for developers</h1>
     )
 }

@@ -5,6 +5,6 @@ export default function ProjectTwo(props) {
 
     return (
         
-        <h1> Project 3 page route working</h1>
+        <h1> Who has seen it - Track missing people</h1>
     )
 }

@@ -5,6 +5,6 @@ export default function Projectone(props) {
 
     return (
         
-        <h1> Project one page route working</h1>
+        <h1> Heawell - Health and wellbeing app</h1>
     )
 }
