@@ -30,7 +30,7 @@ export default function Projects(props) {
   <a className={styles.btntwo}> Demo </a>
 </Link>
 
-<Link href={"/contactme/contact"}>
+<Link href={"/project1/project1"}>
 <a className={styles.btntwo}> Learn more </a>
 </Link>
 
@@ -53,7 +53,7 @@ export default function Projects(props) {
   <a className={styles.btntwo}> Demo </a>
 </Link>
 
-<Link href={"/contactme/contact"}>
+<Link href={"project2/project2"}>
 <a className={styles.btntwo}> Learn more </a>
 </Link> 
 
@@ -82,7 +82,7 @@ export default function Projects(props) {
   <a className={styles.btntwo}> Demo </a>
 </Link>
 
-<Link href={"/contactme/contact"}>
+<Link href={"project3/project3"}>
 <a className={styles.btntwo}> Learn more </a>
 </Link>
 
