@@ -24,7 +24,7 @@ nav {
   border-bottom: 1px solid #ddd;
 }
 nav a {
-  margin-left: 12px;
+  margin-left: 35px;
 }
 nav .logo {
   margin-right: auto;
@@ -45,4 +45,8 @@ footer {
   color: #4979ff;
   text-decoration: underline;
 }
-.nav-content a:hover {background-color: #afbfe9;}
+.nav-content a:hover {
+  background-color: #afbfe9;
+  
+
+}
