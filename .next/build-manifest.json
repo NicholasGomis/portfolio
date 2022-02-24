@@ -40,10 +40,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/project1/project1.js"
     ],
-    "/projects": [
+    "/project2/project2": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/projects.js"
+      "static/chunks/pages/project2/project2.js"
     ]
   },
   "ampFirstPages": []

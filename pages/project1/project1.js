@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 
-import styles from "../../styles/Home.module.css"
+import styles from '../../styles/Projects.module.css'
 
 
 export default function Projectone(props) {
@@ -11,7 +11,7 @@ export default function Projectone(props) {
 
 <div className='testing'>
     <Link href={"/projects"}>
-    <a className={styles.btn}> Return back </a>
+    <a className={styles.btntwo}> Return back </a>
     </Link>,
      <h1>Heawell - Health and wellbeing app</h1>
     </div>
