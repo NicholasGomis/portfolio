@@ -7,3 +7,7 @@
 - A gift or a video of the project?
 
 
+
+* Deploy
+
+Need to be deployed for testing.

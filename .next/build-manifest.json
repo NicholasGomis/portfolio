@@ -35,15 +35,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/about.js"
     ],
-    "/project1/project1": [
+    "/contact": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/project1/project1.js"
+      "static/chunks/pages/contact.js"
     ],
-    "/project2/project2": [
+    "/projects": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/project2/project2.js"
+      "static/chunks/pages/projects.js"
     ]
   },
   "ampFirstPages": []
