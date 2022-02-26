@@ -5,6 +5,9 @@
 - Should include a Download page (Redirect to Google Drive? for planning files ).
 - Illustrate the planning process (user persona,market research etc ).
 - A gift or a video of the project?
+- Optional: include version 1 2 etc
+- timeline? 
+
 
 
 
