@@ -10,7 +10,7 @@ export function Layout({children}) {
 <div className="content">
 <Navbar />
 {children}
-<footer />
+<Footer />
 
 </div>
     )
