@@ -22,5 +22,3 @@ webpackDevMiddleware: config => {
     return config
 },
 }
-Share
-Edit
