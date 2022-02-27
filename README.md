@@ -5,7 +5,7 @@ This is the first version (V1) of my portfolio.The purpose of the portfolio is t
 
 ### Technologies:
 Next.js (Creating components with routes)
-Netlify (Deployment)
+Vercel (Deployment)
 Node.Js
 
 
