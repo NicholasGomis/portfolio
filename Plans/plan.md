@@ -14,4 +14,4 @@
 * Deploy
 
 Need to be deployed for testing.
-Deploy vercel attempt
+Deploy vercel attempt (fix errors)
