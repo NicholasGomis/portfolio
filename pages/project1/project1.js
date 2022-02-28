@@ -11,7 +11,7 @@ export default function Projectone(props) {
 
 <div className='testing'>
     <Link href={"/projects"}>
-    <a className={styles.btntwo}> Return back </a>
+    <a className={styles.btntwo}> ← Projects </a>
     </Link>,
      <h1>Heawell - Health and wellbeing app</h1>
     </div>
