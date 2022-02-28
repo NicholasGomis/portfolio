@@ -1,0 +1,28 @@
+
+.btntwo {
+  display: block;
+  width: 100px;
+  padding: 8px 0;
+  margin: 5px;
+  background: #4979ff;
+  border-radius: 4px;
+  color: white;
+  text-align: center;
+  float:inline-end
+}
+
+.learn body{
+    background-image: linear-gradient(
+    to bottom,
+    
+    #a8dadc 0%,
+    #a8dadc 50%,
+    #457b9d 50%,
+    #457b9d 100%,
+
+    );
+    height: 100vh;
+
+
+
+}
