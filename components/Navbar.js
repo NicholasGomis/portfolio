@@ -11,10 +11,10 @@ export function Navbar(props) {
     <Image src='/logo.png'alt='' width={128} height={127}></Image>
     </div>
     <div className="nav-content">
-    <Link href="/"><a> Home </a></Link>
-    <Link href="/about"><a> About </a></Link>
-    <Link href="/projects"><a> Projects </a></Link>
-    <Link href="/contact"><a> Contact </a></Link>
+    <Link href="/"><a className='home-link'> Home </a></Link>
+    <Link href="/about"><a className='about-link'> About </a></Link>
+    <Link href="/projects"><a className='project-link'> Projects </a></Link>
+    <Link href="/contact"><a className='contact-link'> Contact </a></Link>
     </div>
     </nav>
 

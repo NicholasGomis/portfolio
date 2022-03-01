@@ -29,6 +29,36 @@ nav a {
 nav .logo {
   margin-right: auto;
 }
+
+/* .home-link:hover{
+text-decoration: underline;
+margin-top: 5px;
+} */
+
+
+.home-link {
+  display: inline-block;
+}
+
+.home-link::after {
+  content: '';
+  width: 0px;
+  height: 1px;
+  display: block;
+  background: #4979ff;
+  transition: 300ms;
+}
+
+.home-link:hover::after {
+  width: 100%;
+}
+
+
+
+
+
+
+
 footer {
   display: block;
   text-align: center;

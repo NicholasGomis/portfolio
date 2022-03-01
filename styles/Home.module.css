@@ -24,6 +24,26 @@
   display: inline-block
 }
 
+
+.btn2 {
+  display: block;
+  width: 150px;
+  padding: 8px 0;
+  margin: 20px auto;
+  background: white;
+  border-radius: 4px;
+  color: #4979ff;
+  text-align: center;
+  display: inline-block;
+  border: 2px solid #4979ff;
+}
+
+.btn:hover{
+
+background-color:rgba(0, 0, 255, 0.3);
+color:#333;
+
+}
 .subtitle {
 
  color: #027fff;

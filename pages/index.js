@@ -4,6 +4,7 @@ import Link from 'next/link'
 import { Footer } from '../components/Footer'
 import { Navbar } from '../components/Navbar'
 import styles from '../styles/Home.module.css'
+// import {GrContact} from "react-icons/Gr"
 
 
 export default function Home() {
@@ -26,7 +27,7 @@ export default function Home() {
     </Link>
     <p className={styles.placeholder} > or </p>
      <Link href={"/contact"}>
-    <a className={styles.btn}> Get in touch </a>
+    <a className={styles.btn2}> Get in touch </a>
     </Link>
 
    
@@ -34,3 +35,5 @@ export default function Home() {
     </div>
   ) 
 }
+
+// GrContact
