@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 import {HiDownload} from "react-icons/hi"
-// import styles from '../../styles/Learn.module.css'
+import styles from "../../styles/Learn.module.css"
 
 
 export default function Projectone(props) {
