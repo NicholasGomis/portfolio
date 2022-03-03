@@ -9,6 +9,12 @@
 - timeline? 
 
 
+Project page:
+
+- To be able to show a small description of the project
+- To be able to show the tag
+- Button to direct to (Live demo, GitHub Rep and learn more)
+
 
 
 * Deploy
