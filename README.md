@@ -37,3 +37,6 @@ Resume (bonus)
 ### Footer:
 Button page: my socials (logo links).
 Copyright 
+
+
+* add README structured
