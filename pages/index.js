@@ -12,7 +12,7 @@ export default function Home() {
     <div className={styles.title}> 
    
     <Image src='/avatar.png' alt='' width={188} height={187}></Image>
-    <h1 className={styles.title}> 👋 Hello World! I am Nick </h1>
+    <h1 className={styles.title}>  Hello World! I am Nick </h1>
     <h2 className={styles.subtitle}> Full Stack Software Engineer</h2>
     <Image src='/js.png' alt='' width={40} height={38}></Image>
     <Image src='/css.png' alt='' width={40} height={38}></Image>
