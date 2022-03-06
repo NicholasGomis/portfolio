@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&display=swap');
 
 .imgprofile{
 height: 125px;
@@ -13,4 +14,10 @@ line-height: 5px;
 
 color: #4979ff;
 line-height: 5px;
+}
+
+.textpara {
+color: black;
+font-family: "Nunito";
+font-size: 18px;
 }
