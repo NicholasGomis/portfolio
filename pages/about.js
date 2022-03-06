@@ -1,5 +1,8 @@
 import React from 'react'
+import Image from 'next/image'
 import { Navbar } from '../components/Navbar'
+import styles from '../styles/about.module.css'
+
 
 
 export default function About(props) {
@@ -17,6 +20,10 @@ export default function About(props) {
             <p> Once I earned my diploma, I decided to continue my academic studies in the United Kingdom, due to its opportunities and the diversities which had always intrigued me. During my time in the UK, I gained my Bachelor in Computer Hardware and Software Engineer at Coventry University and a MSc in Manufacturing Engineering with Management at University of Warwick.</p>
 
            <p> Recently, I got the opportunity to take part of the School of Code 14 weeks bootcamp.Throughout my time in the bootcamp, I learnt to work within a team, handle properly complex problems and have the right mindset to cope any challenges and of course new technologies and tools  </p>
+        
+         <img className={styles.imgprofile} src={"./profileimg.png"} alt="profilelogo" />
+         <h3 className={styles.signature} > Nicholas P. Gomis</h3>
+              <h3 className={styles.signature2} > Full Stack Software Engineer</h3>
         
         </div>
     )
