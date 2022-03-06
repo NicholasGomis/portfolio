@@ -3,6 +3,8 @@ import Image from 'next/image'
 import { Navbar } from '../components/Navbar'
 import styles from '../styles/About.module.css'
 
+// import 'antd/dist/antd.css'; 
+
 
 
 export default function About(props) {
@@ -21,15 +23,22 @@ export default function About(props) {
 
            <p className={styles.textpara}> Recently, I got the opportunity to take part of the School of Code 14 weeks bootcamp.Throughout my time in the bootcamp, I learnt to work within a team, handle properly complex problems and have the right mindset to cope any challenges and of course new technologies and tools  </p>
             <h2> 👨🏻‍💻  Tech Stacks </h2>
-            <p className={styles.textpara}> Recently, I got the opportunity to take part of the School of Code 14 weeks bootcamp.Throughout my time in the bootcamp, I learnt to work within a team, handle properly complex problems and have the right mindset to cope any challenges and of course new technologies and tools  </p>
+ 
 
             <h2> 📐  Soft skills </h2>
-            <p className={styles.textpara}> Recently, I got the opportunity to take part of the School of Code 14 weeks bootcamp.Throughout my time in the bootcamp, I learnt to work within a team, handle properly complex problems and have the right mindset to cope any challenges and of course new technologies and tools  </p>
+            
 
+
+
+         <div>
          <img className={styles.imgprofile} src={"./profileimg.png"} alt="profilelogo" />
+         <h3 className={styles.signature2} > Full Stack Software Engineer</h3>
          <h3 className={styles.signature} > Nicholas P. Gomis</h3>
-              <h3 className={styles.signature2} > Full Stack Software Engineer</h3>
-        
+        </div>
+       
+
+
+
         </div>
     )
 }
