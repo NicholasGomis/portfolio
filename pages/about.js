@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import { Navbar } from '../components/Navbar'
-import styles from '../styles/about.module.css'
+import styles from '../styles/About.module.css'
 
 
 
