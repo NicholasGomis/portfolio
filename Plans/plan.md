@@ -15,7 +15,8 @@ Project page:
 - To be able to show the tag
 - Button to direct to (Live demo, GitHub Rep and learn more)
 
-
+create Card for about page in tools stack section
+Add buttons into projects so when hover will able to click button
 
 * Deploy
 
