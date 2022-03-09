@@ -5,7 +5,7 @@ export function Cards(props) {
 
     return (
        <div className='cardBlock'>
-        <h1> This is a card</h1>
+        <h1> This is a card.</h1>
        </div>
     )
 }
