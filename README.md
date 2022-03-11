@@ -40,3 +40,9 @@ Copyright
 
 
 * add README structured
+
+Summary
+Context
+Reflection
+take away
+Future versions
