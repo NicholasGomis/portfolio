@@ -41,7 +41,7 @@ Copyright
 
 * add README structured
 
- * ReadME documentary
+ * ReadME documentary.
 Summary
 Context
 Reflection
