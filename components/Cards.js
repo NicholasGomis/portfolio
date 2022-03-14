@@ -10,16 +10,24 @@ export function Cards(props) {
 <div className='image-container'>
         <img src = {imageURL} alt=''/>
 </div>
-<div className='card-title'>
+<div className='card-content'>
+       <div className='card-title'>
 {titleHeader}
 </div>
 
 <div className='card-body'>
 <p>{body}</p>
 </div>
+</div>
+
+
 
 <div className='btn'>
+<button>
+
 <a> View more </a>
+
+</button>
 </div>
 
  </div>
