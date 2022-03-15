@@ -3,7 +3,7 @@ import Image from 'next/image'
 import { Navbar } from '../components/Navbar'
 import styles from '../styles/About.module.css'
 import Cards from '../components/Cards'
-
+import Rectanglecard from '../components/Rectanglecard'
 // import 'antd/dist/antd.css'; 
 
 
@@ -28,21 +28,24 @@ export default function About(props) {
              <Cards 
              title='Front-End Tools'
              imageURL= 'https://i.ibb.co/WPgJmn0/frontend-removebg-preview.png'
-             body = 'this is a body'   
+             body = 'JavaScript, HTML , CSS TypeScript'   
             />
             <Cards 
              title='Back-End Tools'
              imageURL= ''
-             body = 'this is a body'   
+             body = 'Postgres. '   
             />
 
               <Cards 
-             title='Testing'
+             title='Framework and libraries'
              imageURL= ''
-             body = 'this is a body'   
+             body = 'React, Express.js, NPM, Node.js, Postman, Next.js, Ant design, Chakra.ui, Gatsby, Bootstrap.'   
             />
+            <Rectanglecard />
+         
             <h2> 📐  Soft skills </h2>
             
+            <Rectanglecard />
          
 
 

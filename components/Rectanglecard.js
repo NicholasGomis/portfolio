@@ -6,7 +6,7 @@ export default function Cards({imageURL,title,body}) {
 
 
 return (
-<div className={styles.cardcontainer}>
+<div className={styles.rectanglecontainer}>
 <div className={styles.imagecontainer}>
 <img className={styles.imagetest} src = {imageURL} alt=''/>
 </div>
