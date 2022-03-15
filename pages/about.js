@@ -27,7 +27,7 @@ export default function About(props) {
  
              <Cards 
              title='Front-End Tools'
-             imageURL= ''
+             imageURL= 'https://i.ibb.co/WPgJmn0/frontend-removebg-preview.png'
              body = 'this is a body'   
             />
             <Cards 
