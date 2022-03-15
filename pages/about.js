@@ -37,17 +37,20 @@ export default function About(props) {
             />
 
               <Cards 
+             title='testing'
+             imageURL= ''
+             body = 'Cypress, Jest, Enzyme.'   
+            />
+            <Rectanglecard 
              title='Framework and libraries'
              imageURL= ''
-             body = 'React, Express.js, NPM, Node.js, Postman, Next.js, Ant design, Chakra.ui, Gatsby, Bootstrap.'   
+             body = 'React, Express.js, NPM, Node.js, Postman, Next.js, Ant design, Chakra.ui, Gatsby, Bootstrap.'  
             />
-            <Rectanglecard />
          
             <h2> 📐  Soft skills </h2>
             
-            <Rectanglecard />
          
-
+           
 
 
          <div>
