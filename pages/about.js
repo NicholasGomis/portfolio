@@ -41,11 +41,11 @@ export default function About(props) {
              imageURL= ''
              body = 'Cypress, Jest, Enzyme.'   
             />
-            <Rectanglecard 
+            {/* <Rectanglecard 
              title='Libraries, Framework & Platform:'
              imageURL= ''
              body = 'React, Express.js, NPM, Node.js, Postman, Next.js, Ant design, Chakra.ui, Gatsby, Bootstrap.'  
-            />
+            /> */}
          
             <h2> 📐  Soft skills </h2>
             
