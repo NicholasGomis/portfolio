@@ -25,14 +25,19 @@ export default function About(props) {
            <p className={styles.textpara}> Recently, I got the opportunity to take part of the School of Code 14 weeks bootcamp.Throughout my time in the bootcamp, I learnt to work within a team, handle properly complex problems and have the right mindset to cope any challenges and of course new technologies and tools  </p>
             <h2> 👨🏻‍💻  Tech Stacks </h2>
  
-
-            <h2> 📐  Soft skills </h2>
-            
-            <Cards 
-             title='Card title'
-             imageUrl='https://image.shutterstock.com/image-vector/simple-modern-tiny-house-logo-260nw-1442054603.jpg'
+             <Cards 
+             title='Front-End Tools'
+             imageURL= 'https://i.ibb.co/L8QZWxH/frontend.png'
              body = 'this is a body'   
             />
+            <Cards 
+             title='Front-End Tools'
+             imageURL= 'https://i.ibb.co/L8QZWxH/frontend.png'
+             body = 'this is a body'   
+            />
+            <h2> 📐  Soft skills </h2>
+            
+         
 
 
 
