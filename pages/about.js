@@ -26,23 +26,23 @@ export default function About(props) {
             <h2> 👨🏻‍💻  Tech Stacks </h2>
  
              <Cards 
-             title='Front-End Tools'
+             title='Front-End Tools:'
              imageURL= 'https://i.ibb.co/WPgJmn0/frontend-removebg-preview.png'
              body = 'JavaScript, HTML , CSS TypeScript'   
             />
             <Cards 
-             title='Back-End Tools'
+             title='Back-End Tools:'
              imageURL= ''
              body = 'Postgres. '   
             />
 
               <Cards 
-             title='testing'
+             title='Testing:'
              imageURL= ''
              body = 'Cypress, Jest, Enzyme.'   
             />
             <Rectanglecard 
-             title='Framework and libraries'
+             title='Libraries, Framework & Platform:'
              imageURL= ''
              body = 'React, Express.js, NPM, Node.js, Postman, Next.js, Ant design, Chakra.ui, Gatsby, Bootstrap.'  
             />
