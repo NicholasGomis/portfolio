@@ -27,12 +27,18 @@ export default function About(props) {
  
              <Cards 
              title='Front-End Tools'
-             imageURL= 'https://i.ibb.co/L8QZWxH/frontend.png'
+             imageURL= ''
              body = 'this is a body'   
             />
             <Cards 
-             title='Front-End Tools'
-             imageURL= 'https://i.ibb.co/L8QZWxH/frontend.png'
+             title='Back-End Tools'
+             imageURL= ''
+             body = 'this is a body'   
+            />
+
+              <Cards 
+             title='Testing'
+             imageURL= ''
              body = 'this is a body'   
             />
             <h2> 📐  Soft skills </h2>
