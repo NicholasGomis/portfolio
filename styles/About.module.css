@@ -22,7 +22,8 @@ font-family: "Nunito";
 font-size: 18px;
 }
 
-.card-container{
+.cardcontainer{
+    background-color: red;
     width: 300px;
     overflow: hidden;
     box-shadow: 0px 0px 15px -5px;
@@ -31,11 +32,11 @@ font-size: 18px;
     
 }
 
-.image-container img{
+.imagecontainer img{
     overflow: hidden;
     height: 200px;
 }
-.card-content{
+.cardcontent{
     margin: 1rem;
     margin-top: 0.3rem;
 }

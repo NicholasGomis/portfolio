@@ -2,6 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 import { Navbar } from '../components/Navbar'
 import styles from '../styles/About.module.css'
+import Cards from '../components/Cards'
 
 // import 'antd/dist/antd.css'; 
 
@@ -27,6 +28,11 @@ export default function About(props) {
 
             <h2> 📐  Soft skills </h2>
             
+            <Cards 
+             title='Card title'
+             imageUrl='https://image.shutterstock.com/image-vector/simple-modern-tiny-house-logo-260nw-1442054603.jpg'
+             body = 'this is a body'   
+            />
 
 
 

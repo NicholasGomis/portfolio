@@ -1,27 +1,23 @@
 import Title from 'antd/lib/skeleton/Title'
 import React from 'react'
-import css from  './About.module.css'
 
-export function Cards(props) {
-    
+import styles from '../styles/About.module.css'
+export default function Cards({title, imageURL,body}) {
 
-    return (
-       <div className='card-container'>
-<div className='image-container'>
-        <img src = {imageURL} alt=''/>
+
+return (
+<div className={styles.cardcontainer}>
+<div className={styles.imagecontainer}>
+       <img src = {'/profileimg.png'} alt=''/>
 </div>
-<div className='card-content'>
+<div className={styles.cardcontent}>
        <div className='card-title'>
-{titleHeader}
+{title}
 </div>
 
 <div className='card-body'>
-<p>{body}</p>
+<p>{body}</p>  
 </div>
-</div>
-
-
-
 <div className='btn'>
 <button>
 
@@ -29,9 +25,8 @@ export function Cards(props) {
 
 </button>
 </div>
-
+</div>
  </div>
 
-
-    )
+ )
 }
