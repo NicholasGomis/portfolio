@@ -38,8 +38,12 @@ Resume (bonus)
 Button page: my socials (logo links).
 Copyright 
 
+###  project section
+Buttons when hover in project (Show code, github)
 
-* add README structured
+
+
+* add README documentation structured
 
  * ReadME documentary.
 Summary
