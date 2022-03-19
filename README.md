@@ -31,7 +31,7 @@ Recent Projects / work.
 
 
 ### Page content 3:
-Reach  me 
+Reach  me .
 Resume (bonus)
 
 ### Footer:
